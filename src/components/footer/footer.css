@@ -1,0 +1,35 @@
+.footer {
+    height: 100px;
+    background-color: #4D4DFF;
+    
+}
+
+.footer-icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px;
+    padding: 10px 10px;
+}
+
+.footer-icons img{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    width: 35px;  
+    cursor: pointer;
+}
+
+.footer p{
+    font-weight: 600;
+    font-size: 15px;
+    text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+    .footer  {
+        height: 15vh;
+        margin-top: 10rem;
+    }
+}
