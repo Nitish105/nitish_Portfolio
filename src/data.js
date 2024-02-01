@@ -2,7 +2,7 @@ export const myproject = [
     {
       id: 1,
       img: "https://i.ibb.co/4TD6cYF/1.jpg",
-      link: "https://cryptoverse-reactapp.vercel.app/",
+      link: "https://emart-dynamic-ecommerce-app.onrender.com/",
     },
     {
       id: 2,
