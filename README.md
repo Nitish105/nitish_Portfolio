@@ -5,7 +5,7 @@ Link 👉 https://nitishkumarportfolio.vercel.app/
 This is a react-based application and deployed on a Vercel hosting website.
 
 ## Technologies Used:
-* Frontend Part: Reactjs, CSS
+* Frontend Part: Reactjs, HTML, CSS, Javascript
 * Backend Part: Nodejs, Emailjs
 
 ## Features:
