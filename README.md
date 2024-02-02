@@ -4,8 +4,8 @@
 This is a react-based application and deployed on a vercel hosting website.
 
 ## Technologies Used:
-Frontend Part: Reactjs, CSS
-Backend Part: Nodejs
+* Frontend Part: Reactjs, CSS
+* Backend Part: Nodejs, Emailjs
 
 ## Features:
 In this app, to showcase my working projects using React, MERN-based.
